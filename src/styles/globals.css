@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=DM+Serif+Display&display=swap');
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg-base: #070810;
+  --bg-card: #0d0f1a;
+  --bg-elevated: #131525;
+  --border: #1c1f33;
+  --border-accent: #252840;
+  --text-primary: #e8eaf5;
+  --text-secondary: #6b7290;
+  --text-muted: #373b55;
+  --amber: #F0A500;
+  --teal: #00c9a7;
+  --red: #e84040;
+  --blue: #4fa8ff;
+  --purple: #9b8cff;
+
+  --font-sans: 'DM Sans', system-ui, sans-serif;
+  --font-serif: 'DM Serif Display', Georgia, serif;
+
+  --r: 10px;
+  --sp-1: 8px;
+  --sp-2: 16px;
+  --sp-3: 24px;
+  --sp-4: 32px;
+  --sp-6: 48px;
+}
+
+html { font-size: 14px; }
+
+body {
+  font-family: var(--font-sans);
+  background: var(--bg-base);
+  color: var(--text-primary);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  min-width: 1024px;
+}
+
+h1, h2, h3 { font-family: var(--font-serif); font-weight: 400; }
+
+/* Utility classes */
+.card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--r);
+}
+.card-elevated {
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: var(--r);
+}
+.tabular { font-variant-numeric: tabular-nums; }
+.font-serif { font-family: var(--font-serif); }
+.font-sans { font-family: var(--font-sans); }
+.truncate { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: var(--bg-base); }
+::-webkit-scrollbar-thumb { background: var(--border-accent); border-radius: 3px; }
+
+/* Modal overlay */
+.modal-overlay {
+  position: fixed; inset: 0; z-index: 100;
+  background: rgba(4, 5, 10, 0.85);
+  backdrop-filter: blur(8px);
+  display: flex; align-items: start; justify-content: center;
+  padding: var(--sp-6) var(--sp-4);
+  overflow-y: auto;
+}
+.modal-content {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  width: 100%; max-width: 960px;
+  animation: modalIn 0.2s ease-out;
+}
+@keyframes modalIn {
+  from { opacity: 0; transform: translateY(16px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Slide-out panel */
+.panel-overlay {
+  position: fixed; inset: 0; z-index: 90;
+  background: rgba(4, 5, 10, 0.6);
+}
+.panel-slide {
+  position: fixed; top: 0; right: 0; bottom: 0;
+  width: 420px; z-index: 91;
+  background: var(--bg-card);
+  border-left: 1px solid var(--border);
+  animation: slideIn 0.2s ease-out;
+  overflow-y: auto;
+}
+@keyframes slideIn {
+  from { transform: translateX(100%); }
+  to { transform: translateX(0); }
+}
+
+/* Toast */
+.toast {
+  position: fixed; bottom: 24px; right: 24px; z-index: 200;
+  background: var(--bg-elevated);
+  border: 1px solid var(--teal);
+  border-radius: var(--r);
+  padding: 12px 20px;
+  color: var(--teal);
+  font-size: 13px;
+  animation: toastIn 0.3s ease-out;
+}
+@keyframes toastIn {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Recharts overrides */
+.recharts-cartesian-grid-horizontal line { stroke: var(--border); }
+.recharts-cartesian-grid-vertical line { display: none; }
+.recharts-text { fill: var(--text-secondary); font-size: 11px; }
