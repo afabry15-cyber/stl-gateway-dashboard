@@ -1,0 +1,5162 @@
+[
+  {
+    "ticker": "APOG",
+    "quarter": "Q1 2016",
+    "date": "2016-03-31",
+    "score": 42
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q1 2016",
+    "date": "2016-03-31",
+    "score": 45
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q1 2016",
+    "date": "2016-03-31",
+    "score": 52
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q1 2016",
+    "date": "2016-03-31",
+    "score": 28
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q1 2016",
+    "date": "2016-03-31",
+    "score": 42
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q1 2016",
+    "date": "2016-03-31",
+    "score": 38
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q1 2016",
+    "date": "2016-03-31",
+    "score": 12
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q1 2016",
+    "date": "2016-03-31",
+    "score": 62
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q1 2016",
+    "date": "2016-03-31",
+    "score": 50
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q1 2016",
+    "date": "2016-03-31",
+    "score": 52
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q1 2016",
+    "date": "2016-03-31",
+    "score": 55
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q1 2016",
+    "date": "2016-03-31",
+    "score": 52
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q1 2016",
+    "date": "2016-03-31",
+    "score": 58
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q1 2016",
+    "date": "2016-03-31",
+    "score": 48
+  },
+  {
+    "ticker": "ESRX",
+    "quarter": "Q1 2016",
+    "date": "2016-03-31",
+    "score": 65
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q1 2016",
+    "date": "2016-03-31",
+    "score": 40
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q1 2016",
+    "date": "2016-03-31",
+    "score": 45
+  },
+  {
+    "ticker": "MNK",
+    "quarter": "Q1 2016",
+    "date": "2016-03-31",
+    "score": 42
+  },
+  {
+    "ticker": "MON",
+    "quarter": "Q1 2016",
+    "date": "2016-03-31",
+    "score": 68
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q1 2016",
+    "date": "2016-03-31",
+    "score": 38
+  },
+  {
+    "ticker": "PNRA",
+    "quarter": "Q1 2016",
+    "date": "2016-03-31",
+    "score": 72
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q1 2016",
+    "date": "2016-03-31",
+    "score": 48
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q1 2016",
+    "date": "2016-03-31",
+    "score": 48
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q2 2016",
+    "date": "2016-06-30",
+    "score": 45
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q2 2016",
+    "date": "2016-06-30",
+    "score": 49
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q2 2016",
+    "date": "2016-06-30",
+    "score": 55
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q2 2016",
+    "date": "2016-06-30",
+    "score": 30
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q2 2016",
+    "date": "2016-06-30",
+    "score": 46
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q2 2016",
+    "date": "2016-06-30",
+    "score": 40
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q2 2016",
+    "date": "2016-06-30",
+    "score": 17
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q2 2016",
+    "date": "2016-06-30",
+    "score": 59
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q2 2016",
+    "date": "2016-06-30",
+    "score": 53
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q2 2016",
+    "date": "2016-06-30",
+    "score": 55
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q2 2016",
+    "date": "2016-06-30",
+    "score": 54
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q2 2016",
+    "date": "2016-06-30",
+    "score": 55
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q2 2016",
+    "date": "2016-06-30",
+    "score": 60
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q2 2016",
+    "date": "2016-06-30",
+    "score": 50
+  },
+  {
+    "ticker": "ESRX",
+    "quarter": "Q2 2016",
+    "date": "2016-06-30",
+    "score": 65
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q2 2016",
+    "date": "2016-06-30",
+    "score": 43
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q2 2016",
+    "date": "2016-06-30",
+    "score": 48
+  },
+  {
+    "ticker": "MNK",
+    "quarter": "Q2 2016",
+    "date": "2016-06-30",
+    "score": 38
+  },
+  {
+    "ticker": "MON",
+    "quarter": "Q2 2016",
+    "date": "2016-06-30",
+    "score": 68
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q2 2016",
+    "date": "2016-06-30",
+    "score": 41
+  },
+  {
+    "ticker": "PNRA",
+    "quarter": "Q2 2016",
+    "date": "2016-06-30",
+    "score": 72
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q2 2016",
+    "date": "2016-06-30",
+    "score": 51
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q2 2016",
+    "date": "2016-06-30",
+    "score": 51
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q3 2016",
+    "date": "2016-09-30",
+    "score": 45
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q3 2016",
+    "date": "2016-09-30",
+    "score": 49
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q3 2016",
+    "date": "2016-09-30",
+    "score": 55
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q3 2016",
+    "date": "2016-09-30",
+    "score": 28
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q3 2016",
+    "date": "2016-09-30",
+    "score": 47
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q3 2016",
+    "date": "2016-09-30",
+    "score": 38
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q3 2016",
+    "date": "2016-09-30",
+    "score": 20
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q3 2016",
+    "date": "2016-09-30",
+    "score": 59
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q3 2016",
+    "date": "2016-09-30",
+    "score": 53
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q3 2016",
+    "date": "2016-09-30",
+    "score": 55
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q3 2016",
+    "date": "2016-09-30",
+    "score": 56
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q3 2016",
+    "date": "2016-09-30",
+    "score": 55
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q3 2016",
+    "date": "2016-09-30",
+    "score": 58
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q3 2016",
+    "date": "2016-09-30",
+    "score": 48
+  },
+  {
+    "ticker": "ESRX",
+    "quarter": "Q3 2016",
+    "date": "2016-09-30",
+    "score": 67
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q3 2016",
+    "date": "2016-09-30",
+    "score": 43
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q3 2016",
+    "date": "2016-09-30",
+    "score": 48
+  },
+  {
+    "ticker": "MNK",
+    "quarter": "Q3 2016",
+    "date": "2016-09-30",
+    "score": 37
+  },
+  {
+    "ticker": "MON",
+    "quarter": "Q3 2016",
+    "date": "2016-09-30",
+    "score": 71
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q3 2016",
+    "date": "2016-09-30",
+    "score": 42
+  },
+  {
+    "ticker": "PNRA",
+    "quarter": "Q3 2016",
+    "date": "2016-09-30",
+    "score": 74
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q3 2016",
+    "date": "2016-09-30",
+    "score": 52
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q3 2016",
+    "date": "2016-09-30",
+    "score": 52
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q4 2016",
+    "date": "2016-12-31",
+    "score": 44
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q4 2016",
+    "date": "2016-12-31",
+    "score": 48
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q4 2016",
+    "date": "2016-12-31",
+    "score": 53
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q4 2016",
+    "date": "2016-12-31",
+    "score": 25
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q4 2016",
+    "date": "2016-12-31",
+    "score": 46
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q4 2016",
+    "date": "2016-12-31",
+    "score": 35
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q4 2016",
+    "date": "2016-12-31",
+    "score": 24
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q4 2016",
+    "date": "2016-12-31",
+    "score": 60
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q4 2016",
+    "date": "2016-12-31",
+    "score": 51
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q4 2016",
+    "date": "2016-12-31",
+    "score": 53
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q4 2016",
+    "date": "2016-12-31",
+    "score": 60
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q4 2016",
+    "date": "2016-12-31",
+    "score": 54
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q4 2016",
+    "date": "2016-12-31",
+    "score": 55
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q4 2016",
+    "date": "2016-12-31",
+    "score": 45
+  },
+  {
+    "ticker": "ESRX",
+    "quarter": "Q4 2016",
+    "date": "2016-12-31",
+    "score": 70
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q4 2016",
+    "date": "2016-12-31",
+    "score": 41
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q4 2016",
+    "date": "2016-12-31",
+    "score": 47
+  },
+  {
+    "ticker": "MNK",
+    "quarter": "Q4 2016",
+    "date": "2016-12-31",
+    "score": 36
+  },
+  {
+    "ticker": "MON",
+    "quarter": "Q4 2016",
+    "date": "2016-12-31",
+    "score": 75
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q4 2016",
+    "date": "2016-12-31",
+    "score": 40
+  },
+  {
+    "ticker": "PNRA",
+    "quarter": "Q4 2016",
+    "date": "2016-12-31",
+    "score": 78
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q4 2016",
+    "date": "2016-12-31",
+    "score": 50
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q4 2016",
+    "date": "2016-12-31",
+    "score": 50
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q1 2017",
+    "date": "2017-03-31",
+    "score": 46
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q1 2017",
+    "date": "2017-03-31",
+    "score": 51
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q1 2017",
+    "date": "2017-03-31",
+    "score": 55
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q1 2017",
+    "date": "2017-03-31",
+    "score": 26
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q1 2017",
+    "date": "2017-03-31",
+    "score": 49
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q1 2017",
+    "date": "2017-03-31",
+    "score": 36
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q1 2017",
+    "date": "2017-03-31",
+    "score": 29
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q1 2017",
+    "date": "2017-03-31",
+    "score": 60
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q1 2017",
+    "date": "2017-03-31",
+    "score": 53
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q1 2017",
+    "date": "2017-03-31",
+    "score": 55
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q1 2017",
+    "date": "2017-03-31",
+    "score": 62
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q1 2017",
+    "date": "2017-03-31",
+    "score": 56
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q1 2017",
+    "date": "2017-03-31",
+    "score": 56
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q1 2017",
+    "date": "2017-03-31",
+    "score": 46
+  },
+  {
+    "ticker": "ESRX",
+    "quarter": "Q1 2017",
+    "date": "2017-03-31",
+    "score": 72
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q1 2017",
+    "date": "2017-03-31",
+    "score": 43
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q1 2017",
+    "date": "2017-03-31",
+    "score": 49
+  },
+  {
+    "ticker": "MNK",
+    "quarter": "Q1 2017",
+    "date": "2017-03-31",
+    "score": 34
+  },
+  {
+    "ticker": "MON",
+    "quarter": "Q1 2017",
+    "date": "2017-03-31",
+    "score": 77
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q1 2017",
+    "date": "2017-03-31",
+    "score": 43
+  },
+  {
+    "ticker": "PNRA",
+    "quarter": "Q1 2017",
+    "date": "2017-03-31",
+    "score": 80
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q1 2017",
+    "date": "2017-03-31",
+    "score": 53
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q1 2017",
+    "date": "2017-03-31",
+    "score": 53
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q2 2017",
+    "date": "2017-06-30",
+    "score": 44
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q2 2017",
+    "date": "2017-06-30",
+    "score": 49
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q2 2017",
+    "date": "2017-06-30",
+    "score": 52
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q2 2017",
+    "date": "2017-06-30",
+    "score": 22
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q2 2017",
+    "date": "2017-06-30",
+    "score": 48
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q2 2017",
+    "date": "2017-06-30",
+    "score": 32
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q2 2017",
+    "date": "2017-06-30",
+    "score": 30
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q2 2017",
+    "date": "2017-06-30",
+    "score": 57
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q2 2017",
+    "date": "2017-06-30",
+    "score": 51
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q2 2017",
+    "date": "2017-06-30",
+    "score": 53
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q2 2017",
+    "date": "2017-06-30",
+    "score": 62
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q2 2017",
+    "date": "2017-06-30",
+    "score": 54
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q2 2017",
+    "date": "2017-06-30",
+    "score": 54
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q2 2017",
+    "date": "2017-06-30",
+    "score": 42
+  },
+  {
+    "ticker": "ESRX",
+    "quarter": "Q2 2017",
+    "date": "2017-06-30",
+    "score": 71
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q2 2017",
+    "date": "2017-06-30",
+    "score": 41
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q2 2017",
+    "date": "2017-06-30",
+    "score": 47
+  },
+  {
+    "ticker": "MNK",
+    "quarter": "Q2 2017",
+    "date": "2017-06-30",
+    "score": 30
+  },
+  {
+    "ticker": "MON",
+    "quarter": "Q2 2017",
+    "date": "2017-06-30",
+    "score": 76
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q2 2017",
+    "date": "2017-06-30",
+    "score": 42
+  },
+  {
+    "ticker": "PNRA",
+    "quarter": "Q2 2017",
+    "date": "2017-06-30",
+    "score": 80
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q2 2017",
+    "date": "2017-06-30",
+    "score": 51
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q2 2017",
+    "date": "2017-06-30",
+    "score": 52
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q3 2017",
+    "date": "2017-09-30",
+    "score": 45
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q3 2017",
+    "date": "2017-09-30",
+    "score": 50
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q3 2017",
+    "date": "2017-09-30",
+    "score": 52
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q3 2017",
+    "date": "2017-09-30",
+    "score": 21
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q3 2017",
+    "date": "2017-09-30",
+    "score": 49
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q3 2017",
+    "date": "2017-09-30",
+    "score": 31
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q3 2017",
+    "date": "2017-09-30",
+    "score": 33
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q3 2017",
+    "date": "2017-09-30",
+    "score": 55
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q3 2017",
+    "date": "2017-09-30",
+    "score": 51
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q3 2017",
+    "date": "2017-09-30",
+    "score": 53
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q3 2017",
+    "date": "2017-09-30",
+    "score": 62
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q3 2017",
+    "date": "2017-09-30",
+    "score": 55
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q3 2017",
+    "date": "2017-09-30",
+    "score": 55
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q3 2017",
+    "date": "2017-09-30",
+    "score": 41
+  },
+  {
+    "ticker": "ESRX",
+    "quarter": "Q3 2017",
+    "date": "2017-09-30",
+    "score": 70
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q3 2017",
+    "date": "2017-09-30",
+    "score": 42
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q3 2017",
+    "date": "2017-09-30",
+    "score": 48
+  },
+  {
+    "ticker": "MNK",
+    "quarter": "Q3 2017",
+    "date": "2017-09-30",
+    "score": 26
+  },
+  {
+    "ticker": "MON",
+    "quarter": "Q3 2017",
+    "date": "2017-09-30",
+    "score": 76
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q3 2017",
+    "date": "2017-09-30",
+    "score": 43
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q3 2017",
+    "date": "2017-09-30",
+    "score": 51
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q3 2017",
+    "date": "2017-09-30",
+    "score": 53
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q4 2017",
+    "date": "2017-12-31",
+    "score": 49
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q4 2017",
+    "date": "2017-12-31",
+    "score": 54
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q4 2017",
+    "date": "2017-12-31",
+    "score": 55
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q4 2017",
+    "date": "2017-12-31",
+    "score": 23
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q4 2017",
+    "date": "2017-12-31",
+    "score": 53
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q4 2017",
+    "date": "2017-12-31",
+    "score": 33
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q4 2017",
+    "date": "2017-12-31",
+    "score": 37
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q4 2017",
+    "date": "2017-12-31",
+    "score": 55
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q4 2017",
+    "date": "2017-12-31",
+    "score": 54
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q4 2017",
+    "date": "2017-12-31",
+    "score": 55
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q4 2017",
+    "date": "2017-12-31",
+    "score": 65
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q4 2017",
+    "date": "2017-12-31",
+    "score": 59
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q4 2017",
+    "date": "2017-12-31",
+    "score": 59
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q4 2017",
+    "date": "2017-12-31",
+    "score": 43
+  },
+  {
+    "ticker": "ESRX",
+    "quarter": "Q4 2017",
+    "date": "2017-12-31",
+    "score": 69
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q4 2017",
+    "date": "2017-12-31",
+    "score": 45
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q4 2017",
+    "date": "2017-12-31",
+    "score": 51
+  },
+  {
+    "ticker": "MNK",
+    "quarter": "Q4 2017",
+    "date": "2017-12-31",
+    "score": 24
+  },
+  {
+    "ticker": "MON",
+    "quarter": "Q4 2017",
+    "date": "2017-12-31",
+    "score": 78
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q4 2017",
+    "date": "2017-12-31",
+    "score": 46
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q4 2017",
+    "date": "2017-12-31",
+    "score": 54
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q4 2017",
+    "date": "2017-12-31",
+    "score": 56
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q1 2018",
+    "date": "2018-03-31",
+    "score": 49
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q1 2018",
+    "date": "2018-03-31",
+    "score": 54
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q1 2018",
+    "date": "2018-03-31",
+    "score": 54
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q1 2018",
+    "date": "2018-03-31",
+    "score": 21
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q1 2018",
+    "date": "2018-03-31",
+    "score": 54
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q1 2018",
+    "date": "2018-03-31",
+    "score": 31
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q1 2018",
+    "date": "2018-03-31",
+    "score": 41
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q1 2018",
+    "date": "2018-03-31",
+    "score": 56
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q1 2018",
+    "date": "2018-03-31",
+    "score": 54
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q1 2018",
+    "date": "2018-03-31",
+    "score": 55
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q1 2018",
+    "date": "2018-03-31",
+    "score": 69
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q1 2018",
+    "date": "2018-03-31",
+    "score": 59
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q1 2018",
+    "date": "2018-03-31",
+    "score": 59
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q1 2018",
+    "date": "2018-03-31",
+    "score": 41
+  },
+  {
+    "ticker": "ESRX",
+    "quarter": "Q1 2018",
+    "date": "2018-03-31",
+    "score": 69
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q1 2018",
+    "date": "2018-03-31",
+    "score": 45
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q1 2018",
+    "date": "2018-03-31",
+    "score": 51
+  },
+  {
+    "ticker": "MNK",
+    "quarter": "Q1 2018",
+    "date": "2018-03-31",
+    "score": 23
+  },
+  {
+    "ticker": "MON",
+    "quarter": "Q1 2018",
+    "date": "2018-03-31",
+    "score": 81
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q1 2018",
+    "date": "2018-03-31",
+    "score": 47
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q1 2018",
+    "date": "2018-03-31",
+    "score": 54
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q1 2018",
+    "date": "2018-03-31",
+    "score": 57
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q2 2018",
+    "date": "2018-06-30",
+    "score": 52
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q2 2018",
+    "date": "2018-06-30",
+    "score": 57
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q2 2018",
+    "date": "2018-06-30",
+    "score": 57
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q2 2018",
+    "date": "2018-06-30",
+    "score": 25
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q2 2018",
+    "date": "2018-06-30",
+    "score": 56
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q2 2018",
+    "date": "2018-06-30",
+    "score": 32
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q2 2018",
+    "date": "2018-06-30",
+    "score": 46
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q2 2018",
+    "date": "2018-06-30",
+    "score": 56
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q2 2018",
+    "date": "2018-06-30",
+    "score": 56
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q2 2018",
+    "date": "2018-06-30",
+    "score": 58
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q2 2018",
+    "date": "2018-06-30",
+    "score": 71
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q2 2018",
+    "date": "2018-06-30",
+    "score": 63
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q2 2018",
+    "date": "2018-06-30",
+    "score": 62
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q2 2018",
+    "date": "2018-06-30",
+    "score": 43
+  },
+  {
+    "ticker": "ESRX",
+    "quarter": "Q2 2018",
+    "date": "2018-06-30",
+    "score": 68
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q2 2018",
+    "date": "2018-06-30",
+    "score": 48
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q2 2018",
+    "date": "2018-06-30",
+    "score": 54
+  },
+  {
+    "ticker": "MNK",
+    "quarter": "Q2 2018",
+    "date": "2018-06-30",
+    "score": 22
+  },
+  {
+    "ticker": "MON",
+    "quarter": "Q2 2018",
+    "date": "2018-06-30",
+    "score": 84
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q2 2018",
+    "date": "2018-06-30",
+    "score": 49
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q2 2018",
+    "date": "2018-06-30",
+    "score": 57
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q2 2018",
+    "date": "2018-06-30",
+    "score": 60
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q3 2018",
+    "date": "2018-09-30",
+    "score": 53
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q3 2018",
+    "date": "2018-09-30",
+    "score": 59
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q3 2018",
+    "date": "2018-09-30",
+    "score": 58
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q3 2018",
+    "date": "2018-09-30",
+    "score": 28
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q3 2018",
+    "date": "2018-09-30",
+    "score": 56
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q3 2018",
+    "date": "2018-09-30",
+    "score": 32
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q3 2018",
+    "date": "2018-09-30",
+    "score": 50
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q3 2018",
+    "date": "2018-09-30",
+    "score": 53
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q3 2018",
+    "date": "2018-09-30",
+    "score": 56
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q3 2018",
+    "date": "2018-09-30",
+    "score": 59
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q3 2018",
+    "date": "2018-09-30",
+    "score": 70
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q3 2018",
+    "date": "2018-09-30",
+    "score": 65
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q3 2018",
+    "date": "2018-09-30",
+    "score": 63
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q3 2018",
+    "date": "2018-09-30",
+    "score": 43
+  },
+  {
+    "ticker": "ESRX",
+    "quarter": "Q3 2018",
+    "date": "2018-09-30",
+    "score": 65
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q3 2018",
+    "date": "2018-09-30",
+    "score": 50
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q3 2018",
+    "date": "2018-09-30",
+    "score": 56
+  },
+  {
+    "ticker": "MNK",
+    "quarter": "Q3 2018",
+    "date": "2018-09-30",
+    "score": 18
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q3 2018",
+    "date": "2018-09-30",
+    "score": 49
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q3 2018",
+    "date": "2018-09-30",
+    "score": 59
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q3 2018",
+    "date": "2018-09-30",
+    "score": 62
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q4 2018",
+    "date": "2018-12-31",
+    "score": 52
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q4 2018",
+    "date": "2018-12-31",
+    "score": 58
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q4 2018",
+    "date": "2018-12-31",
+    "score": 56
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q4 2018",
+    "date": "2018-12-31",
+    "score": 29
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q4 2018",
+    "date": "2018-12-31",
+    "score": 53
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q4 2018",
+    "date": "2018-12-31",
+    "score": 35
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q4 2018",
+    "date": "2018-12-31",
+    "score": 52
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q4 2018",
+    "date": "2018-12-31",
+    "score": 51
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q4 2018",
+    "date": "2018-12-31",
+    "score": 54
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q4 2018",
+    "date": "2018-12-31",
+    "score": 58
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q4 2018",
+    "date": "2018-12-31",
+    "score": 69
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q4 2018",
+    "date": "2018-12-31",
+    "score": 64
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q4 2018",
+    "date": "2018-12-31",
+    "score": 62
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q4 2018",
+    "date": "2018-12-31",
+    "score": 41
+  },
+  {
+    "ticker": "ESRX",
+    "quarter": "Q4 2018",
+    "date": "2018-12-31",
+    "score": 60
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q4 2018",
+    "date": "2018-12-31",
+    "score": 50
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q4 2018",
+    "date": "2018-12-31",
+    "score": 55
+  },
+  {
+    "ticker": "MNK",
+    "quarter": "Q4 2018",
+    "date": "2018-12-31",
+    "score": 15
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q4 2018",
+    "date": "2018-12-31",
+    "score": 46
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q4 2018",
+    "date": "2018-12-31",
+    "score": 58
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q4 2018",
+    "date": "2018-12-31",
+    "score": 62
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q1 2019",
+    "date": "2019-03-31",
+    "score": 54
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q1 2019",
+    "date": "2019-03-31",
+    "score": 60
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q1 2019",
+    "date": "2019-03-31",
+    "score": 58
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q1 2019",
+    "date": "2019-03-31",
+    "score": 32
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q1 2019",
+    "date": "2019-03-31",
+    "score": 54
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q1 2019",
+    "date": "2019-03-31",
+    "score": 37
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q1 2019",
+    "date": "2019-03-31",
+    "score": 54
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q1 2019",
+    "date": "2019-03-31",
+    "score": 51
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q1 2019",
+    "date": "2019-03-31",
+    "score": 55
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q1 2019",
+    "date": "2019-03-31",
+    "score": 60
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q1 2019",
+    "date": "2019-03-31",
+    "score": 71
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q1 2019",
+    "date": "2019-03-31",
+    "score": 67
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q1 2019",
+    "date": "2019-03-31",
+    "score": 64
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q1 2019",
+    "date": "2019-03-31",
+    "score": 42
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q1 2019",
+    "date": "2019-03-31",
+    "score": 52
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q1 2019",
+    "date": "2019-03-31",
+    "score": 57
+  },
+  {
+    "ticker": "MNK",
+    "quarter": "Q1 2019",
+    "date": "2019-03-31",
+    "score": 14
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q1 2019",
+    "date": "2019-03-31",
+    "score": 47
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q1 2019",
+    "date": "2019-03-31",
+    "score": 60
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q1 2019",
+    "date": "2019-03-31",
+    "score": 64
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q2 2019",
+    "date": "2019-06-30",
+    "score": 50
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q2 2019",
+    "date": "2019-06-30",
+    "score": 56
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q2 2019",
+    "date": "2019-06-30",
+    "score": 55
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q2 2019",
+    "date": "2019-06-30",
+    "score": 32
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q2 2019",
+    "date": "2019-06-30",
+    "score": 49
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q2 2019",
+    "date": "2019-06-30",
+    "score": 35
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q2 2019",
+    "date": "2019-06-30",
+    "score": 49
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q2 2019",
+    "date": "2019-06-30",
+    "score": 53
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q2 2019",
+    "date": "2019-06-30",
+    "score": 51
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q2 2019",
+    "date": "2019-06-30",
+    "score": 56
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q2 2019",
+    "date": "2019-06-30",
+    "score": 72
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q2 2019",
+    "date": "2019-06-30",
+    "score": 63
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q2 2019",
+    "date": "2019-06-30",
+    "score": 59
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q2 2019",
+    "date": "2019-06-30",
+    "score": 39
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q2 2019",
+    "date": "2019-06-30",
+    "score": 49
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q2 2019",
+    "date": "2019-06-30",
+    "score": 53
+  },
+  {
+    "ticker": "MNK",
+    "quarter": "Q2 2019",
+    "date": "2019-06-30",
+    "score": 15
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q2 2019",
+    "date": "2019-06-30",
+    "score": 43
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q2 2019",
+    "date": "2019-06-30",
+    "score": 57
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q2 2019",
+    "date": "2019-06-30",
+    "score": 60
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q3 2019",
+    "date": "2019-09-30",
+    "score": 48
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q3 2019",
+    "date": "2019-09-30",
+    "score": 53
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q3 2019",
+    "date": "2019-09-30",
+    "score": 53
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q3 2019",
+    "date": "2019-09-30",
+    "score": 34
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q3 2019",
+    "date": "2019-09-30",
+    "score": 46
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q3 2019",
+    "date": "2019-09-30",
+    "score": 34
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q3 2019",
+    "date": "2019-09-30",
+    "score": 46
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q3 2019",
+    "date": "2019-09-30",
+    "score": 53
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q3 2019",
+    "date": "2019-09-30",
+    "score": 48
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q3 2019",
+    "date": "2019-09-30",
+    "score": 54
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q3 2019",
+    "date": "2019-09-30",
+    "score": 70
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q3 2019",
+    "date": "2019-09-30",
+    "score": 61
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q3 2019",
+    "date": "2019-09-30",
+    "score": 55
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q3 2019",
+    "date": "2019-09-30",
+    "score": 37
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q3 2019",
+    "date": "2019-09-30",
+    "score": 47
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q3 2019",
+    "date": "2019-09-30",
+    "score": 50
+  },
+  {
+    "ticker": "MNK",
+    "quarter": "Q3 2019",
+    "date": "2019-09-30",
+    "score": 14
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q3 2019",
+    "date": "2019-09-30",
+    "score": 40
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q3 2019",
+    "date": "2019-09-30",
+    "score": 55
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q3 2019",
+    "date": "2019-09-30",
+    "score": 58
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q4 2019",
+    "date": "2019-12-31",
+    "score": 48
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q4 2019",
+    "date": "2019-12-31",
+    "score": 52
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q4 2019",
+    "date": "2019-12-31",
+    "score": 53
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q4 2019",
+    "date": "2019-12-31",
+    "score": 34
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q4 2019",
+    "date": "2019-12-31",
+    "score": 45
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q4 2019",
+    "date": "2019-12-31",
+    "score": 36
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q4 2019",
+    "date": "2019-12-31",
+    "score": 45
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q4 2019",
+    "date": "2019-12-31",
+    "score": 50
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q4 2019",
+    "date": "2019-12-31",
+    "score": 48
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q4 2019",
+    "date": "2019-12-31",
+    "score": 54
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q4 2019",
+    "date": "2019-12-31",
+    "score": 66
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q4 2019",
+    "date": "2019-12-31",
+    "score": 61
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q4 2019",
+    "date": "2019-12-31",
+    "score": 53
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q4 2019",
+    "date": "2019-12-31",
+    "score": 37
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q4 2019",
+    "date": "2019-12-31",
+    "score": 47
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q4 2019",
+    "date": "2019-12-31",
+    "score": 50
+  },
+  {
+    "ticker": "MNK",
+    "quarter": "Q4 2019",
+    "date": "2019-12-31",
+    "score": 11
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q4 2019",
+    "date": "2019-12-31",
+    "score": 40
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q4 2019",
+    "date": "2019-12-31",
+    "score": 55
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q4 2019",
+    "date": "2019-12-31",
+    "score": 58
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q1 2020",
+    "date": "2020-03-31",
+    "score": 46
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q1 2020",
+    "date": "2020-03-31",
+    "score": 50
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q1 2020",
+    "date": "2020-03-31",
+    "score": 52
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q1 2020",
+    "date": "2020-03-31",
+    "score": 36
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q1 2020",
+    "date": "2020-03-31",
+    "score": 43
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q1 2020",
+    "date": "2020-03-31",
+    "score": 36
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q1 2020",
+    "date": "2020-03-31",
+    "score": 43
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q1 2020",
+    "date": "2020-03-31",
+    "score": 48
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q1 2020",
+    "date": "2020-03-31",
+    "score": 46
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q1 2020",
+    "date": "2020-03-31",
+    "score": 53
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q1 2020",
+    "date": "2020-03-31",
+    "score": 63
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q1 2020",
+    "date": "2020-03-31",
+    "score": 60
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q1 2020",
+    "date": "2020-03-31",
+    "score": 50
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q1 2020",
+    "date": "2020-03-31",
+    "score": 36
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q1 2020",
+    "date": "2020-03-31",
+    "score": 46
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q1 2020",
+    "date": "2020-03-31",
+    "score": 48
+  },
+  {
+    "ticker": "MNK",
+    "quarter": "Q1 2020",
+    "date": "2020-03-31",
+    "score": 8
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q1 2020",
+    "date": "2020-03-31",
+    "score": 38
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q1 2020",
+    "date": "2020-03-31",
+    "score": 54
+  },
+  {
+    "ticker": "REYN",
+    "quarter": "Q1 2020",
+    "date": "2020-03-31",
+    "score": 53
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q1 2020",
+    "date": "2020-03-31",
+    "score": 56
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q2 2020",
+    "date": "2020-06-30",
+    "score": 42
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q2 2020",
+    "date": "2020-06-30",
+    "score": 47
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q2 2020",
+    "date": "2020-06-30",
+    "score": 52
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q2 2020",
+    "date": "2020-06-30",
+    "score": 28
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q2 2020",
+    "date": "2020-06-30",
+    "score": 42
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q2 2020",
+    "date": "2020-06-30",
+    "score": 35
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q2 2020",
+    "date": "2020-06-30",
+    "score": 38
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q2 2020",
+    "date": "2020-06-30",
+    "score": 45
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q2 2020",
+    "date": "2020-06-30",
+    "score": 35
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q2 2020",
+    "date": "2020-06-30",
+    "score": 52
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q2 2020",
+    "date": "2020-06-30",
+    "score": 61
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q2 2020",
+    "date": "2020-06-30",
+    "score": 60
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q2 2020",
+    "date": "2020-06-30",
+    "score": 48
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q2 2020",
+    "date": "2020-06-30",
+    "score": 35
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q2 2020",
+    "date": "2020-06-30",
+    "score": 43
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q2 2020",
+    "date": "2020-06-30",
+    "score": 46
+  },
+  {
+    "ticker": "MNK",
+    "quarter": "Q2 2020",
+    "date": "2020-06-30",
+    "score": 8
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q2 2020",
+    "date": "2020-06-30",
+    "score": 38
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q2 2020",
+    "date": "2020-06-30",
+    "score": 53
+  },
+  {
+    "ticker": "REYN",
+    "quarter": "Q2 2020",
+    "date": "2020-06-30",
+    "score": 59
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q2 2020",
+    "date": "2020-06-30",
+    "score": 52
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q3 2020",
+    "date": "2020-09-30",
+    "score": 36
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q3 2020",
+    "date": "2020-09-30",
+    "score": 43
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q3 2020",
+    "date": "2020-09-30",
+    "score": 51
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q3 2020",
+    "date": "2020-09-30",
+    "score": 19
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q3 2020",
+    "date": "2020-09-30",
+    "score": 39
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q3 2020",
+    "date": "2020-09-30",
+    "score": 33
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q3 2020",
+    "date": "2020-09-30",
+    "score": 31
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q3 2020",
+    "date": "2020-09-30",
+    "score": 43
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q3 2020",
+    "date": "2020-09-30",
+    "score": 23
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q3 2020",
+    "date": "2020-09-30",
+    "score": 49
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q3 2020",
+    "date": "2020-09-30",
+    "score": 59
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q3 2020",
+    "date": "2020-09-30",
+    "score": 59
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q3 2020",
+    "date": "2020-09-30",
+    "score": 45
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q3 2020",
+    "date": "2020-09-30",
+    "score": 33
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q3 2020",
+    "date": "2020-09-30",
+    "score": 39
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q3 2020",
+    "date": "2020-09-30",
+    "score": 43
+  },
+  {
+    "ticker": "MNK",
+    "quarter": "Q3 2020",
+    "date": "2020-09-30",
+    "score": 9
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q3 2020",
+    "date": "2020-09-30",
+    "score": 36
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q3 2020",
+    "date": "2020-09-30",
+    "score": 51
+  },
+  {
+    "ticker": "REYN",
+    "quarter": "Q3 2020",
+    "date": "2020-09-30",
+    "score": 63
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q3 2020",
+    "date": "2020-09-30",
+    "score": 46
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q4 2020",
+    "date": "2020-12-31",
+    "score": 40
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q4 2020",
+    "date": "2020-12-31",
+    "score": 49
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q4 2020",
+    "date": "2020-12-31",
+    "score": 53
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q4 2020",
+    "date": "2020-12-31",
+    "score": 27
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q4 2020",
+    "date": "2020-12-31",
+    "score": 44
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q4 2020",
+    "date": "2020-12-31",
+    "score": 38
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q4 2020",
+    "date": "2020-12-31",
+    "score": 36
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q4 2020",
+    "date": "2020-12-31",
+    "score": 47
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q4 2020",
+    "date": "2020-12-31",
+    "score": 31
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q4 2020",
+    "date": "2020-12-31",
+    "score": 52
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q4 2020",
+    "date": "2020-12-31",
+    "score": 65
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q4 2020",
+    "date": "2020-12-31",
+    "score": 65
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q4 2020",
+    "date": "2020-12-31",
+    "score": 52
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q4 2020",
+    "date": "2020-12-31",
+    "score": 37
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q4 2020",
+    "date": "2020-12-31",
+    "score": 42
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q4 2020",
+    "date": "2020-12-31",
+    "score": 47
+  },
+  {
+    "ticker": "MNK",
+    "quarter": "Q4 2020",
+    "date": "2020-12-31",
+    "score": 12
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q4 2020",
+    "date": "2020-12-31",
+    "score": 44
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q4 2020",
+    "date": "2020-12-31",
+    "score": 55
+  },
+  {
+    "ticker": "REYN",
+    "quarter": "Q4 2020",
+    "date": "2020-12-31",
+    "score": 66
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q4 2020",
+    "date": "2020-12-31",
+    "score": 54
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q1 2021",
+    "date": "2021-03-31",
+    "score": 42
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q1 2021",
+    "date": "2021-03-31",
+    "score": 54
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q1 2021",
+    "date": "2021-03-31",
+    "score": 54
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q1 2021",
+    "date": "2021-03-31",
+    "score": 34
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q1 2021",
+    "date": "2021-03-31",
+    "score": 47
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q1 2021",
+    "date": "2021-03-31",
+    "score": 42
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q1 2021",
+    "date": "2021-03-31",
+    "score": 40
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q1 2021",
+    "date": "2021-03-31",
+    "score": 48
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q1 2021",
+    "date": "2021-03-31",
+    "score": 37
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q1 2021",
+    "date": "2021-03-31",
+    "score": 54
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q1 2021",
+    "date": "2021-03-31",
+    "score": 68
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q1 2021",
+    "date": "2021-03-31",
+    "score": 70
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q1 2021",
+    "date": "2021-03-31",
+    "score": 57
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q1 2021",
+    "date": "2021-03-31",
+    "score": 40
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q1 2021",
+    "date": "2021-03-31",
+    "score": 44
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q1 2021",
+    "date": "2021-03-31",
+    "score": 50
+  },
+  {
+    "ticker": "MNK",
+    "quarter": "Q1 2021",
+    "date": "2021-03-31",
+    "score": 12
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q1 2021",
+    "date": "2021-03-31",
+    "score": 50
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q1 2021",
+    "date": "2021-03-31",
+    "score": 57
+  },
+  {
+    "ticker": "REYN",
+    "quarter": "Q1 2021",
+    "date": "2021-03-31",
+    "score": 67
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q1 2021",
+    "date": "2021-03-31",
+    "score": 60
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q2 2021",
+    "date": "2021-06-30",
+    "score": 43
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q2 2021",
+    "date": "2021-06-30",
+    "score": 58
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q2 2021",
+    "date": "2021-06-30",
+    "score": 53
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q2 2021",
+    "date": "2021-06-30",
+    "score": 41
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q2 2021",
+    "date": "2021-06-30",
+    "score": 48
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q2 2021",
+    "date": "2021-06-30",
+    "score": 47
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q2 2021",
+    "date": "2021-06-30",
+    "score": 47
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q2 2021",
+    "date": "2021-06-30",
+    "score": 48
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q2 2021",
+    "date": "2021-06-30",
+    "score": 42
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q2 2021",
+    "date": "2021-06-30",
+    "score": 54
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q2 2021",
+    "date": "2021-06-30",
+    "score": 68
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q2 2021",
+    "date": "2021-06-30",
+    "score": 71
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q2 2021",
+    "date": "2021-06-30",
+    "score": 57
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q2 2021",
+    "date": "2021-06-30",
+    "score": 41
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q2 2021",
+    "date": "2021-06-30",
+    "score": 45
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q2 2021",
+    "date": "2021-06-30",
+    "score": 50
+  },
+  {
+    "ticker": "MNK",
+    "quarter": "Q2 2021",
+    "date": "2021-06-30",
+    "score": 12
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q2 2021",
+    "date": "2021-06-30",
+    "score": 56
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q2 2021",
+    "date": "2021-06-30",
+    "score": 57
+  },
+  {
+    "ticker": "REYN",
+    "quarter": "Q2 2021",
+    "date": "2021-06-30",
+    "score": 63
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q2 2021",
+    "date": "2021-06-30",
+    "score": 64
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q3 2021",
+    "date": "2021-09-30",
+    "score": 42
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q3 2021",
+    "date": "2021-09-30",
+    "score": 62
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q3 2021",
+    "date": "2021-09-30",
+    "score": 52
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q3 2021",
+    "date": "2021-09-30",
+    "score": 48
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q3 2021",
+    "date": "2021-09-30",
+    "score": 48
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q3 2021",
+    "date": "2021-09-30",
+    "score": 52
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q3 2021",
+    "date": "2021-09-30",
+    "score": 55
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q3 2021",
+    "date": "2021-09-30",
+    "score": 51
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q3 2021",
+    "date": "2021-09-30",
+    "score": 48
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q3 2021",
+    "date": "2021-09-30",
+    "score": 52
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q3 2021",
+    "date": "2021-09-30",
+    "score": 71
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q3 2021",
+    "date": "2021-09-30",
+    "score": 72
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q3 2021",
+    "date": "2021-09-30",
+    "score": 57
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q3 2021",
+    "date": "2021-09-30",
+    "score": 42
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q3 2021",
+    "date": "2021-09-30",
+    "score": 44
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q3 2021",
+    "date": "2021-09-30",
+    "score": 48
+  },
+  {
+    "ticker": "MNK",
+    "quarter": "Q3 2021",
+    "date": "2021-09-30",
+    "score": 14
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q3 2021",
+    "date": "2021-09-30",
+    "score": 62
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q3 2021",
+    "date": "2021-09-30",
+    "score": 56
+  },
+  {
+    "ticker": "REYN",
+    "quarter": "Q3 2021",
+    "date": "2021-09-30",
+    "score": 60
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q3 2021",
+    "date": "2021-09-30",
+    "score": 68
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q4 2021",
+    "date": "2021-12-31",
+    "score": 44
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q4 2021",
+    "date": "2021-12-31",
+    "score": 64
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q4 2021",
+    "date": "2021-12-31",
+    "score": 52
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q4 2021",
+    "date": "2021-12-31",
+    "score": 51
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q4 2021",
+    "date": "2021-12-31",
+    "score": 50
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q4 2021",
+    "date": "2021-12-31",
+    "score": 56
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q4 2021",
+    "date": "2021-12-31",
+    "score": 61
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q4 2021",
+    "date": "2021-12-31",
+    "score": 55
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q4 2021",
+    "date": "2021-12-31",
+    "score": 51
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q4 2021",
+    "date": "2021-12-31",
+    "score": 53
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q4 2021",
+    "date": "2021-12-31",
+    "score": 75
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q4 2021",
+    "date": "2021-12-31",
+    "score": 69
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q4 2021",
+    "date": "2021-12-31",
+    "score": 58
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q4 2021",
+    "date": "2021-12-31",
+    "score": 41
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q4 2021",
+    "date": "2021-12-31",
+    "score": 46
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q4 2021",
+    "date": "2021-12-31",
+    "score": 49
+  },
+  {
+    "ticker": "MNK",
+    "quarter": "Q4 2021",
+    "date": "2021-12-31",
+    "score": 18
+  },
+  {
+    "ticker": "NRDY",
+    "quarter": "Q4 2021",
+    "date": "2021-12-31",
+    "score": 52
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q4 2021",
+    "date": "2021-12-31",
+    "score": 65
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q4 2021",
+    "date": "2021-12-31",
+    "score": 57
+  },
+  {
+    "ticker": "REYN",
+    "quarter": "Q4 2021",
+    "date": "2021-12-31",
+    "score": 55
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q4 2021",
+    "date": "2021-12-31",
+    "score": 68
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q1 2022",
+    "date": "2022-03-31",
+    "score": 46
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q1 2022",
+    "date": "2022-03-31",
+    "score": 68
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q1 2022",
+    "date": "2022-03-31",
+    "score": 53
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q1 2022",
+    "date": "2022-03-31",
+    "score": 56
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q1 2022",
+    "date": "2022-03-31",
+    "score": 53
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q1 2022",
+    "date": "2022-03-31",
+    "score": 63
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q1 2022",
+    "date": "2022-03-31",
+    "score": 70
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q1 2022",
+    "date": "2022-03-31",
+    "score": 57
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q1 2022",
+    "date": "2022-03-31",
+    "score": 56
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q1 2022",
+    "date": "2022-03-31",
+    "score": 54
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q1 2022",
+    "date": "2022-03-31",
+    "score": 77
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q1 2022",
+    "date": "2022-03-31",
+    "score": 68
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q1 2022",
+    "date": "2022-03-31",
+    "score": 60
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q1 2022",
+    "date": "2022-03-31",
+    "score": 43
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q1 2022",
+    "date": "2022-03-31",
+    "score": 48
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q1 2022",
+    "date": "2022-03-31",
+    "score": 50
+  },
+  {
+    "ticker": "MNK",
+    "quarter": "Q1 2022",
+    "date": "2022-03-31",
+    "score": 20
+  },
+  {
+    "ticker": "NRDY",
+    "quarter": "Q1 2022",
+    "date": "2022-03-31",
+    "score": 48
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q1 2022",
+    "date": "2022-03-31",
+    "score": 70
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q1 2022",
+    "date": "2022-03-31",
+    "score": 58
+  },
+  {
+    "ticker": "REYN",
+    "quarter": "Q1 2022",
+    "date": "2022-03-31",
+    "score": 53
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q1 2022",
+    "date": "2022-03-31",
+    "score": 70
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q2 2022",
+    "date": "2022-06-30",
+    "score": 49
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q2 2022",
+    "date": "2022-06-30",
+    "score": 70
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q2 2022",
+    "date": "2022-06-30",
+    "score": 54
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q2 2022",
+    "date": "2022-06-30",
+    "score": 60
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q2 2022",
+    "date": "2022-06-30",
+    "score": 57
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q2 2022",
+    "date": "2022-06-30",
+    "score": 66
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q2 2022",
+    "date": "2022-06-30",
+    "score": 74
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q2 2022",
+    "date": "2022-06-30",
+    "score": 53
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q2 2022",
+    "date": "2022-06-30",
+    "score": 59
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q2 2022",
+    "date": "2022-06-30",
+    "score": 56
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q2 2022",
+    "date": "2022-06-30",
+    "score": 73
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q2 2022",
+    "date": "2022-06-30",
+    "score": 67
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q2 2022",
+    "date": "2022-06-30",
+    "score": 62
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q2 2022",
+    "date": "2022-06-30",
+    "score": 42
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q2 2022",
+    "date": "2022-06-30",
+    "score": 50
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q2 2022",
+    "date": "2022-06-30",
+    "score": 52
+  },
+  {
+    "ticker": "MNK",
+    "quarter": "Q2 2022",
+    "date": "2022-06-30",
+    "score": 16
+  },
+  {
+    "ticker": "NRDY",
+    "quarter": "Q2 2022",
+    "date": "2022-06-30",
+    "score": 42
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q2 2022",
+    "date": "2022-06-30",
+    "score": 72
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q2 2022",
+    "date": "2022-06-30",
+    "score": 60
+  },
+  {
+    "ticker": "REYN",
+    "quarter": "Q2 2022",
+    "date": "2022-06-30",
+    "score": 52
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q2 2022",
+    "date": "2022-06-30",
+    "score": 70
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q3 2022",
+    "date": "2022-09-30",
+    "score": 53
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q3 2022",
+    "date": "2022-09-30",
+    "score": 71
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q3 2022",
+    "date": "2022-09-30",
+    "score": 57
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q3 2022",
+    "date": "2022-09-30",
+    "score": 64
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q3 2022",
+    "date": "2022-09-30",
+    "score": 61
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q3 2022",
+    "date": "2022-09-30",
+    "score": 69
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q3 2022",
+    "date": "2022-09-30",
+    "score": 77
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q3 2022",
+    "date": "2022-09-30",
+    "score": 50
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q3 2022",
+    "date": "2022-09-30",
+    "score": 61
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q3 2022",
+    "date": "2022-09-30",
+    "score": 59
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q3 2022",
+    "date": "2022-09-30",
+    "score": 70
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q3 2022",
+    "date": "2022-09-30",
+    "score": 67
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q3 2022",
+    "date": "2022-09-30",
+    "score": 66
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q3 2022",
+    "date": "2022-09-30",
+    "score": 41
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q3 2022",
+    "date": "2022-09-30",
+    "score": 54
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q3 2022",
+    "date": "2022-09-30",
+    "score": 55
+  },
+  {
+    "ticker": "MNK",
+    "quarter": "Q3 2022",
+    "date": "2022-09-30",
+    "score": 13
+  },
+  {
+    "ticker": "NRDY",
+    "quarter": "Q3 2022",
+    "date": "2022-09-30",
+    "score": 38
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q3 2022",
+    "date": "2022-09-30",
+    "score": 74
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q3 2022",
+    "date": "2022-09-30",
+    "score": 64
+  },
+  {
+    "ticker": "REYN",
+    "quarter": "Q3 2022",
+    "date": "2022-09-30",
+    "score": 51
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q3 2022",
+    "date": "2022-09-30",
+    "score": 69
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q4 2022",
+    "date": "2022-12-31",
+    "score": 56
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q4 2022",
+    "date": "2022-12-31",
+    "score": 70
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q4 2022",
+    "date": "2022-12-31",
+    "score": 59
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q4 2022",
+    "date": "2022-12-31",
+    "score": 69
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q4 2022",
+    "date": "2022-12-31",
+    "score": 65
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q4 2022",
+    "date": "2022-12-31",
+    "score": 68
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q4 2022",
+    "date": "2022-12-31",
+    "score": 75
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q4 2022",
+    "date": "2022-12-31",
+    "score": 49
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q4 2022",
+    "date": "2022-12-31",
+    "score": 63
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q4 2022",
+    "date": "2022-12-31",
+    "score": 61
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q4 2022",
+    "date": "2022-12-31",
+    "score": 68
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q4 2022",
+    "date": "2022-12-31",
+    "score": 66
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q4 2022",
+    "date": "2022-12-31",
+    "score": 69
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q4 2022",
+    "date": "2022-12-31",
+    "score": 43
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q4 2022",
+    "date": "2022-12-31",
+    "score": 56
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q4 2022",
+    "date": "2022-12-31",
+    "score": 57
+  },
+  {
+    "ticker": "MNK",
+    "quarter": "Q4 2022",
+    "date": "2022-12-31",
+    "score": 12
+  },
+  {
+    "ticker": "NRDY",
+    "quarter": "Q4 2022",
+    "date": "2022-12-31",
+    "score": 35
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q4 2022",
+    "date": "2022-12-31",
+    "score": 73
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q4 2022",
+    "date": "2022-12-31",
+    "score": 66
+  },
+  {
+    "ticker": "REYN",
+    "quarter": "Q4 2022",
+    "date": "2022-12-31",
+    "score": 53
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q4 2022",
+    "date": "2022-12-31",
+    "score": 69
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q1 2023",
+    "date": "2023-03-31",
+    "score": 57
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q1 2023",
+    "date": "2023-03-31",
+    "score": 67
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q1 2023",
+    "date": "2023-03-31",
+    "score": 59
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q1 2023",
+    "date": "2023-03-31",
+    "score": 72
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q1 2023",
+    "date": "2023-03-31",
+    "score": 67
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q1 2023",
+    "date": "2023-03-31",
+    "score": 64
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q1 2023",
+    "date": "2023-03-31",
+    "score": 70
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q1 2023",
+    "date": "2023-03-31",
+    "score": 50
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q1 2023",
+    "date": "2023-03-31",
+    "score": 62
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q1 2023",
+    "date": "2023-03-31",
+    "score": 62
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q1 2023",
+    "date": "2023-03-31",
+    "score": 67
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q1 2023",
+    "date": "2023-03-31",
+    "score": 64
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q1 2023",
+    "date": "2023-03-31",
+    "score": 70
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q1 2023",
+    "date": "2023-03-31",
+    "score": 42
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q1 2023",
+    "date": "2023-03-31",
+    "score": 57
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q1 2023",
+    "date": "2023-03-31",
+    "score": 57
+  },
+  {
+    "ticker": "MNK",
+    "quarter": "Q1 2023",
+    "date": "2023-03-31",
+    "score": 12
+  },
+  {
+    "ticker": "NRDY",
+    "quarter": "Q1 2023",
+    "date": "2023-03-31",
+    "score": 32
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q1 2023",
+    "date": "2023-03-31",
+    "score": 70
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q1 2023",
+    "date": "2023-03-31",
+    "score": 67
+  },
+  {
+    "ticker": "REYN",
+    "quarter": "Q1 2023",
+    "date": "2023-03-31",
+    "score": 52
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q1 2023",
+    "date": "2023-03-31",
+    "score": 67
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q2 2023",
+    "date": "2023-06-30",
+    "score": 57
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q2 2023",
+    "date": "2023-06-30",
+    "score": 62
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q2 2023",
+    "date": "2023-06-30",
+    "score": 59
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q2 2023",
+    "date": "2023-06-30",
+    "score": 73
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q2 2023",
+    "date": "2023-06-30",
+    "score": 64
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q2 2023",
+    "date": "2023-06-30",
+    "score": 58
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q2 2023",
+    "date": "2023-06-30",
+    "score": 63
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q2 2023",
+    "date": "2023-06-30",
+    "score": 51
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q2 2023",
+    "date": "2023-06-30",
+    "score": 61
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q2 2023",
+    "date": "2023-06-30",
+    "score": 62
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q2 2023",
+    "date": "2023-06-30",
+    "score": 64
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q2 2023",
+    "date": "2023-06-30",
+    "score": 62
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q2 2023",
+    "date": "2023-06-30",
+    "score": 71
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q2 2023",
+    "date": "2023-06-30",
+    "score": 41
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q2 2023",
+    "date": "2023-06-30",
+    "score": 56
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q2 2023",
+    "date": "2023-06-30",
+    "score": 57
+  },
+  {
+    "ticker": "MNK",
+    "quarter": "Q2 2023",
+    "date": "2023-06-30",
+    "score": 11
+  },
+  {
+    "ticker": "NRDY",
+    "quarter": "Q2 2023",
+    "date": "2023-06-30",
+    "score": 28
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q2 2023",
+    "date": "2023-06-30",
+    "score": 66
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q2 2023",
+    "date": "2023-06-30",
+    "score": 68
+  },
+  {
+    "ticker": "REYN",
+    "quarter": "Q2 2023",
+    "date": "2023-06-30",
+    "score": 51
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q2 2023",
+    "date": "2023-06-30",
+    "score": 68
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q3 2023",
+    "date": "2023-09-30",
+    "score": 55
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q3 2023",
+    "date": "2023-09-30",
+    "score": 56
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q3 2023",
+    "date": "2023-09-30",
+    "score": 57
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q3 2023",
+    "date": "2023-09-30",
+    "score": 73
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q3 2023",
+    "date": "2023-09-30",
+    "score": 61
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q3 2023",
+    "date": "2023-09-30",
+    "score": 51
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q3 2023",
+    "date": "2023-09-30",
+    "score": 56
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q3 2023",
+    "date": "2023-09-30",
+    "score": 49
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q3 2023",
+    "date": "2023-09-30",
+    "score": 57
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q3 2023",
+    "date": "2023-09-30",
+    "score": 60
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q3 2023",
+    "date": "2023-09-30",
+    "score": 59
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q3 2023",
+    "date": "2023-09-30",
+    "score": 58
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q3 2023",
+    "date": "2023-09-30",
+    "score": 69
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q3 2023",
+    "date": "2023-09-30",
+    "score": 39
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q3 2023",
+    "date": "2023-09-30",
+    "score": 53
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q3 2023",
+    "date": "2023-09-30",
+    "score": 54
+  },
+  {
+    "ticker": "MNK",
+    "quarter": "Q3 2023",
+    "date": "2023-09-30",
+    "score": 7
+  },
+  {
+    "ticker": "NRDY",
+    "quarter": "Q3 2023",
+    "date": "2023-09-30",
+    "score": 25
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q3 2023",
+    "date": "2023-09-30",
+    "score": 61
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q3 2023",
+    "date": "2023-09-30",
+    "score": 67
+  },
+  {
+    "ticker": "REYN",
+    "quarter": "Q3 2023",
+    "date": "2023-09-30",
+    "score": 49
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q3 2023",
+    "date": "2023-09-30",
+    "score": 69
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q4 2023",
+    "date": "2023-12-31",
+    "score": 53
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q4 2023",
+    "date": "2023-12-31",
+    "score": 48
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q4 2023",
+    "date": "2023-12-31",
+    "score": 55
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q4 2023",
+    "date": "2023-12-31",
+    "score": 71
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q4 2023",
+    "date": "2023-12-31",
+    "score": 57
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q4 2023",
+    "date": "2023-12-31",
+    "score": 44
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q4 2023",
+    "date": "2023-12-31",
+    "score": 47
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q4 2023",
+    "date": "2023-12-31",
+    "score": 49
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q4 2023",
+    "date": "2023-12-31",
+    "score": 55
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q4 2023",
+    "date": "2023-12-31",
+    "score": 59
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q4 2023",
+    "date": "2023-12-31",
+    "score": 57
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q4 2023",
+    "date": "2023-12-31",
+    "score": 54
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q4 2023",
+    "date": "2023-12-31",
+    "score": 69
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q4 2023",
+    "date": "2023-12-31",
+    "score": 35
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q4 2023",
+    "date": "2023-12-31",
+    "score": 50
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q4 2023",
+    "date": "2023-12-31",
+    "score": 52
+  },
+  {
+    "ticker": "NRDY",
+    "quarter": "Q4 2023",
+    "date": "2023-12-31",
+    "score": 24
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q4 2023",
+    "date": "2023-12-31",
+    "score": 56
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q4 2023",
+    "date": "2023-12-31",
+    "score": 66
+  },
+  {
+    "ticker": "REYN",
+    "quarter": "Q4 2023",
+    "date": "2023-12-31",
+    "score": 46
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q4 2023",
+    "date": "2023-12-31",
+    "score": 68
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q1 2024",
+    "date": "2024-03-31",
+    "score": 54
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q1 2024",
+    "date": "2024-03-31",
+    "score": 43
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q1 2024",
+    "date": "2024-03-31",
+    "score": 56
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q1 2024",
+    "date": "2024-03-31",
+    "score": 72
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q1 2024",
+    "date": "2024-03-31",
+    "score": 56
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q1 2024",
+    "date": "2024-03-31",
+    "score": 40
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q1 2024",
+    "date": "2024-03-31",
+    "score": 40
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q1 2024",
+    "date": "2024-03-31",
+    "score": 51
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q1 2024",
+    "date": "2024-03-31",
+    "score": 54
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q1 2024",
+    "date": "2024-03-31",
+    "score": 60
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q1 2024",
+    "date": "2024-03-31",
+    "score": 57
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q1 2024",
+    "date": "2024-03-31",
+    "score": 53
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q1 2024",
+    "date": "2024-03-31",
+    "score": 70
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q1 2024",
+    "date": "2024-03-31",
+    "score": 34
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q1 2024",
+    "date": "2024-03-31",
+    "score": 50
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q1 2024",
+    "date": "2024-03-31",
+    "score": 52
+  },
+  {
+    "ticker": "NRDY",
+    "quarter": "Q1 2024",
+    "date": "2024-03-31",
+    "score": 22
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q1 2024",
+    "date": "2024-03-31",
+    "score": 53
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q1 2024",
+    "date": "2024-03-31",
+    "score": 68
+  },
+  {
+    "ticker": "REYN",
+    "quarter": "Q1 2024",
+    "date": "2024-03-31",
+    "score": 46
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q1 2024",
+    "date": "2024-03-31",
+    "score": 70
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q2 2024",
+    "date": "2024-06-30",
+    "score": 54
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q2 2024",
+    "date": "2024-06-30",
+    "score": 39
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q2 2024",
+    "date": "2024-06-30",
+    "score": 56
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q2 2024",
+    "date": "2024-06-30",
+    "score": 72
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q2 2024",
+    "date": "2024-06-30",
+    "score": 56
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q2 2024",
+    "date": "2024-06-30",
+    "score": 36
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q2 2024",
+    "date": "2024-06-30",
+    "score": 36
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q2 2024",
+    "date": "2024-06-30",
+    "score": 54
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q2 2024",
+    "date": "2024-06-30",
+    "score": 53
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q2 2024",
+    "date": "2024-06-30",
+    "score": 60
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q2 2024",
+    "date": "2024-06-30",
+    "score": 61
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q2 2024",
+    "date": "2024-06-30",
+    "score": 52
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q2 2024",
+    "date": "2024-06-30",
+    "score": 69
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q2 2024",
+    "date": "2024-06-30",
+    "score": 34
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q2 2024",
+    "date": "2024-06-30",
+    "score": 49
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q2 2024",
+    "date": "2024-06-30",
+    "score": 52
+  },
+  {
+    "ticker": "NRDY",
+    "quarter": "Q2 2024",
+    "date": "2024-06-30",
+    "score": 20
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q2 2024",
+    "date": "2024-06-30",
+    "score": 52
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q2 2024",
+    "date": "2024-06-30",
+    "score": 68
+  },
+  {
+    "ticker": "REYN",
+    "quarter": "Q2 2024",
+    "date": "2024-06-30",
+    "score": 47
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q2 2024",
+    "date": "2024-06-30",
+    "score": 71
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q3 2024",
+    "date": "2024-09-30",
+    "score": 56
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q3 2024",
+    "date": "2024-09-30",
+    "score": 36
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q3 2024",
+    "date": "2024-09-30",
+    "score": 58
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q3 2024",
+    "date": "2024-09-30",
+    "score": 75
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q3 2024",
+    "date": "2024-09-30",
+    "score": 59
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q3 2024",
+    "date": "2024-09-30",
+    "score": 33
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q3 2024",
+    "date": "2024-09-30",
+    "score": 33
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q3 2024",
+    "date": "2024-09-30",
+    "score": 55
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q3 2024",
+    "date": "2024-09-30",
+    "score": 55
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q3 2024",
+    "date": "2024-09-30",
+    "score": 63
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q3 2024",
+    "date": "2024-09-30",
+    "score": 62
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q3 2024",
+    "date": "2024-09-30",
+    "score": 54
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q3 2024",
+    "date": "2024-09-30",
+    "score": 71
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q3 2024",
+    "date": "2024-09-30",
+    "score": 36
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q3 2024",
+    "date": "2024-09-30",
+    "score": 51
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q3 2024",
+    "date": "2024-09-30",
+    "score": 55
+  },
+  {
+    "ticker": "NRDY",
+    "quarter": "Q3 2024",
+    "date": "2024-09-30",
+    "score": 21
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q3 2024",
+    "date": "2024-09-30",
+    "score": 54
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q3 2024",
+    "date": "2024-09-30",
+    "score": 71
+  },
+  {
+    "ticker": "REYN",
+    "quarter": "Q3 2024",
+    "date": "2024-09-30",
+    "score": 48
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q3 2024",
+    "date": "2024-09-30",
+    "score": 73
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q4 2024",
+    "date": "2024-12-31",
+    "score": 58
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q4 2024",
+    "date": "2024-12-31",
+    "score": 37
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q4 2024",
+    "date": "2024-12-31",
+    "score": 60
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q4 2024",
+    "date": "2024-12-31",
+    "score": 77
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q4 2024",
+    "date": "2024-12-31",
+    "score": 62
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q4 2024",
+    "date": "2024-12-31",
+    "score": 33
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q4 2024",
+    "date": "2024-12-31",
+    "score": 32
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q4 2024",
+    "date": "2024-12-31",
+    "score": 53
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q4 2024",
+    "date": "2024-12-31",
+    "score": 57
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q4 2024",
+    "date": "2024-12-31",
+    "score": 65
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q4 2024",
+    "date": "2024-12-31",
+    "score": 60
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q4 2024",
+    "date": "2024-12-31",
+    "score": 55
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q4 2024",
+    "date": "2024-12-31",
+    "score": 73
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q4 2024",
+    "date": "2024-12-31",
+    "score": 38
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q4 2024",
+    "date": "2024-12-31",
+    "score": 53
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q4 2024",
+    "date": "2024-12-31",
+    "score": 57
+  },
+  {
+    "ticker": "NRDY",
+    "quarter": "Q4 2024",
+    "date": "2024-12-31",
+    "score": 23
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q4 2024",
+    "date": "2024-12-31",
+    "score": 55
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q4 2024",
+    "date": "2024-12-31",
+    "score": 74
+  },
+  {
+    "ticker": "REYN",
+    "quarter": "Q4 2024",
+    "date": "2024-12-31",
+    "score": 50
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q4 2024",
+    "date": "2024-12-31",
+    "score": 77
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q1 2025",
+    "date": "2025-03-31",
+    "score": 57
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q1 2025",
+    "date": "2025-03-31",
+    "score": 36
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q1 2025",
+    "date": "2025-03-31",
+    "score": 60
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q1 2025",
+    "date": "2025-03-31",
+    "score": 77
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q1 2025",
+    "date": "2025-03-31",
+    "score": 62
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q1 2025",
+    "date": "2025-03-31",
+    "score": 32
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q1 2025",
+    "date": "2025-03-31",
+    "score": 30
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q1 2025",
+    "date": "2025-03-31",
+    "score": 52
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q1 2025",
+    "date": "2025-03-31",
+    "score": 56
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q1 2025",
+    "date": "2025-03-31",
+    "score": 65
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q1 2025",
+    "date": "2025-03-31",
+    "score": 60
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q1 2025",
+    "date": "2025-03-31",
+    "score": 54
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q1 2025",
+    "date": "2025-03-31",
+    "score": 72
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q1 2025",
+    "date": "2025-03-31",
+    "score": 37
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q1 2025",
+    "date": "2025-03-31",
+    "score": 52
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q1 2025",
+    "date": "2025-03-31",
+    "score": 57
+  },
+  {
+    "ticker": "NRDY",
+    "quarter": "Q1 2025",
+    "date": "2025-03-31",
+    "score": 22
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q1 2025",
+    "date": "2025-03-31",
+    "score": 54
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q1 2025",
+    "date": "2025-03-31",
+    "score": 74
+  },
+  {
+    "ticker": "REYN",
+    "quarter": "Q1 2025",
+    "date": "2025-03-31",
+    "score": 50
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q1 2025",
+    "date": "2025-03-31",
+    "score": 80
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q2 2025",
+    "date": "2025-06-30",
+    "score": 58
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q2 2025",
+    "date": "2025-06-30",
+    "score": 35
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q2 2025",
+    "date": "2025-06-30",
+    "score": 61
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q2 2025",
+    "date": "2025-06-30",
+    "score": 78
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q2 2025",
+    "date": "2025-06-30",
+    "score": 63
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q2 2025",
+    "date": "2025-06-30",
+    "score": 31
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q2 2025",
+    "date": "2025-06-30",
+    "score": 28
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q2 2025",
+    "date": "2025-06-30",
+    "score": 54
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q2 2025",
+    "date": "2025-06-30",
+    "score": 57
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q2 2025",
+    "date": "2025-06-30",
+    "score": 66
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q2 2025",
+    "date": "2025-06-30",
+    "score": 62
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q2 2025",
+    "date": "2025-06-30",
+    "score": 54
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q2 2025",
+    "date": "2025-06-30",
+    "score": 74
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q2 2025",
+    "date": "2025-06-30",
+    "score": 37
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q2 2025",
+    "date": "2025-06-30",
+    "score": 53
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q2 2025",
+    "date": "2025-06-30",
+    "score": 58
+  },
+  {
+    "ticker": "NRDY",
+    "quarter": "Q2 2025",
+    "date": "2025-06-30",
+    "score": 24
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q2 2025",
+    "date": "2025-06-30",
+    "score": 54
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q2 2025",
+    "date": "2025-06-30",
+    "score": 75
+  },
+  {
+    "ticker": "REYN",
+    "quarter": "Q2 2025",
+    "date": "2025-06-30",
+    "score": 51
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q2 2025",
+    "date": "2025-06-30",
+    "score": 82
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q3 2025",
+    "date": "2025-09-30",
+    "score": 58
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q3 2025",
+    "date": "2025-09-30",
+    "score": 32
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q3 2025",
+    "date": "2025-09-30",
+    "score": 60
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q3 2025",
+    "date": "2025-09-30",
+    "score": 76
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q3 2025",
+    "date": "2025-09-30",
+    "score": 62
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q3 2025",
+    "date": "2025-09-30",
+    "score": 28
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q3 2025",
+    "date": "2025-09-30",
+    "score": 25
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q3 2025",
+    "date": "2025-09-30",
+    "score": 56
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q3 2025",
+    "date": "2025-09-30",
+    "score": 55
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q3 2025",
+    "date": "2025-09-30",
+    "score": 64
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q3 2025",
+    "date": "2025-09-30",
+    "score": 66
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q3 2025",
+    "date": "2025-09-30",
+    "score": 51
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q3 2025",
+    "date": "2025-09-30",
+    "score": 74
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q3 2025",
+    "date": "2025-09-30",
+    "score": 34
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q3 2025",
+    "date": "2025-09-30",
+    "score": 52
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q3 2025",
+    "date": "2025-09-30",
+    "score": 56
+  },
+  {
+    "ticker": "NRDY",
+    "quarter": "Q3 2025",
+    "date": "2025-09-30",
+    "score": 23
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q3 2025",
+    "date": "2025-09-30",
+    "score": 51
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q3 2025",
+    "date": "2025-09-30",
+    "score": 74
+  },
+  {
+    "ticker": "REYN",
+    "quarter": "Q3 2025",
+    "date": "2025-09-30",
+    "score": 50
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q3 2025",
+    "date": "2025-09-30",
+    "score": 81
+  },
+  {
+    "ticker": "APOG",
+    "quarter": "Q4 2025",
+    "date": "2025-12-31",
+    "score": 58
+  },
+  {
+    "ticker": "ASGN",
+    "quarter": "Q4 2025",
+    "date": "2025-12-31",
+    "score": 30
+  },
+  {
+    "ticker": "AVA",
+    "quarter": "Q4 2025",
+    "date": "2025-12-31",
+    "score": 60
+  },
+  {
+    "ticker": "BBW",
+    "quarter": "Q4 2025",
+    "date": "2025-12-31",
+    "score": 76
+  },
+  {
+    "ticker": "BDC",
+    "quarter": "Q4 2025",
+    "date": "2025-12-31",
+    "score": 62
+  },
+  {
+    "ticker": "BG",
+    "quarter": "Q4 2025",
+    "date": "2025-12-31",
+    "score": 26
+  },
+  {
+    "ticker": "BTU",
+    "quarter": "Q4 2025",
+    "date": "2025-12-31",
+    "score": 22
+  },
+  {
+    "ticker": "BUD",
+    "quarter": "Q4 2025",
+    "date": "2025-12-31",
+    "score": 57
+  },
+  {
+    "ticker": "CAL",
+    "quarter": "Q4 2025",
+    "date": "2025-12-31",
+    "score": 55
+  },
+  {
+    "ticker": "CASS",
+    "quarter": "Q4 2025",
+    "date": "2025-12-31",
+    "score": 64
+  },
+  {
+    "ticker": "CHTR",
+    "quarter": "Q4 2025",
+    "date": "2025-12-31",
+    "score": 67
+  },
+  {
+    "ticker": "CNC",
+    "quarter": "Q4 2025",
+    "date": "2025-12-31",
+    "score": 50
+  },
+  {
+    "ticker": "EMR",
+    "quarter": "Q4 2025",
+    "date": "2025-12-31",
+    "score": 75
+  },
+  {
+    "ticker": "ENR",
+    "quarter": "Q4 2025",
+    "date": "2025-12-31",
+    "score": 33
+  },
+  {
+    "ticker": "GEF",
+    "quarter": "Q4 2025",
+    "date": "2025-12-31",
+    "score": 52
+  },
+  {
+    "ticker": "IOSP",
+    "quarter": "Q4 2025",
+    "date": "2025-12-31",
+    "score": 56
+  },
+  {
+    "ticker": "NRDY",
+    "quarter": "Q4 2025",
+    "date": "2025-12-31",
+    "score": 22
+  },
+  {
+    "ticker": "OLN",
+    "quarter": "Q4 2025",
+    "date": "2025-12-31",
+    "score": 50
+  },
+  {
+    "ticker": "POST",
+    "quarter": "Q4 2025",
+    "date": "2025-12-31",
+    "score": 74
+  },
+  {
+    "ticker": "REYN",
+    "quarter": "Q4 2025",
+    "date": "2025-12-31",
+    "score": 50
+  },
+  {
+    "ticker": "SF",
+    "quarter": "Q4 2025",
+    "date": "2025-12-31",
+    "score": 82
+  }
+]
